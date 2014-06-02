@@ -1,0 +1,6 @@
+*.iml
+*.iws
+*.ipr
+media-assets/*.mp4
+.idea/
+target/
